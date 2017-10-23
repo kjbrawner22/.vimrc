@@ -47,7 +47,7 @@ set tabstop=2
 set softtabstop=2
 set shiftwidth=2
 
-" Enable highlighting of the current line
+" Enable underline of the current line
 set cursorline
 
 " Set 80 character max width
